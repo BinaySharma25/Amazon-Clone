@@ -13,3 +13,18 @@ This project features:
 This project helped me strengthen my front-end development skills, especially in DOM manipulation, event handling, and creating a seamless user experience.
 
 <b>Screenshots</b>
+<br>
+<b>Home</b>
+![image alt](https://github.com/BinaySharma25/Amazon-Clone/blob/main/Screenshots/ss-1.png?raw=true)
+<br>
+<br>
+<b>Electronics</b>
+![image alt](https://github.com/BinaySharma25/Amazon-Clone/blob/main/Screenshots/ss-2.png?raw=true)
+<br>
+<br>
+<b>Jewelry</b>
+![image alt](https://github.com/BinaySharma25/Amazon-Clone/blob/main/Screenshots/ss-3.png?raw=true)
+<br>
+<br>
+<b>Shoes</b>
+![image alt](https://github.com/BinaySharma25/Amazon-Clone/blob/main/Screenshots/ss-4.png?raw=true)
